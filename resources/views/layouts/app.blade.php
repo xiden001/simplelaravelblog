@@ -137,9 +137,7 @@
     </footer>
 
     <!-- jQuery -->
-    <script src="{{ asset('vendor/jquery/jquery.min.js') }}"></script>
-    <!-- Bootstrap Core JavaScript -->
-    <script src="{{ asset('vendor/bootstrap/js/bootstrap.min.js') }}"></script>
+    
     <!-- Contact Form JavaScript -->
     <script src="{{ asset('js/jqBootstrapValidation.js') }}"></script>
     <!-- Theme JavaScript -->
